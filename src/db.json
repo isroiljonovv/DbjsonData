@@ -1,0 +1,67 @@
+{
+    "posts" : [
+        {
+            "id" : 1,
+            "name" : "Firdavs",
+            "surname" : "Isroiljonov",
+            "year" : "2009"
+        },
+        {
+            "id" : 2,
+            "name" : "Muhammadamin",
+            "surname" : "Rahmatjonov",
+            "year" : "2007"
+        },
+        {
+            "id" : 3,
+            "name" : "Muhammadamin",
+            "surname" : "Rahmatjonov",
+            "year" : "2007"
+        },
+        {
+            "id" : 4,
+            "name" : "Muhammadamin",
+            "surname" : "Rahmatjonov",
+            "year" : "2007"
+        },
+        {
+            "id" : 5,
+            "name" : "Muhammadamin",
+            "surname" : "Rahmatjonov",
+            "year" : "2007"
+        }
+    ],
+
+    "cards" : [
+        {
+            "id" : 1,
+            "img" : "../images/bmw.jpg",
+            "name" : "BMW",
+            "title" : "this is good car"
+        },
+        {
+            "id" : 2,
+            "img" : "../images/mercedes.png",
+            "name" : "Mercedes",
+            "title" : "this is good car"
+        },
+        {
+            "id" : 3,
+            "img" : "../images/lambo.webp",
+            "name" : "Lamborghini",
+            "title" : "this is good car"
+        },
+        {
+            "id" : 4,
+            "img" : "../images/fera.jpg",
+            "name" : "Ferrari",
+            "title" : "this is good car"
+        },
+        {
+            "id" : 5,
+            "name" : "GTR",
+            "img" : "../images/gtr.jpg",
+            "title" : "this is good car"
+        }
+    ]
+}
