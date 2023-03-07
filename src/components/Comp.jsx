@@ -9,6 +9,8 @@ import Klava from "../images/klava.png"
 export default function Komp(){
     return(
         <div className="ob">
+        <p>Shakalad</p>
+        <p>Hello</p>
         <div className="container myRow myComp">
             <div className="row row-cols-1 row-cols-md-2">
                 <div className="col mt-5 myCol">
